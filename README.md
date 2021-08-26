@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aytida!0606
+- 👋 Hi, I’m @Aditya Pawar 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning  fundamentals
 - 💞️ I’m looking to collaborate on web development preferably front end(still learning!)
