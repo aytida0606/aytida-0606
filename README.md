@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aytida0606
+- 👋 Hi, I’m @aytida!0606
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning basic fundamentals
-- 💞️ I’m looking to collaborate on (still learning!)
+- 🌱 I’m currently learning  fundamentals
+- 💞️ I’m looking to collaborate on web development preferably front end(still learning!)
 - 📫 How to reach me aditya.pawar.32.ap@gmail.com
 
 <!---
