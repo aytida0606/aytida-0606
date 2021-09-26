@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya Pawar 
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and use it for fun projects
 - 🌱 I’m currently learning  fundamentals
 - 💞️ I’m looking to collaborate on web development preferably front end(still learning!)
 - 📫 How to reach me aditya.pawar.32.ap@gmail.com
