@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I’m @Aditya Pawar</h1>
-<h3 align="center">Exploring Tech Stuffs</h3>
+
 
 - 🌱 I’m currently learning **Web Development**
 
