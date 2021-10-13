@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning  fundamentals
 
-- 💞️ I’m looking to collaborate on web development preferably front end(still learning!)
+- 💞️ I’m looking to collaborate on web development preferably front end (still learning!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
