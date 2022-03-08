@@ -7,7 +7,7 @@
 
 -  👀 I’m interested in web development and use it for fun projects
 
-- 🌱 I’m currently learning  fundamentals
+- 🌱 I’m currently learning  M.E.R.N. Stack
 
 - 💞️ I’m looking to collaborate on web development preferably front end (still learning!)
 
